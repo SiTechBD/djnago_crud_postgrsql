@@ -16,6 +16,6 @@ django crud using postgresql
 		'PASSWORD': '123456789',
 		'HOST':'localhost',
 		'PORT':'5432',
+		}
 	}
-}
    ```
